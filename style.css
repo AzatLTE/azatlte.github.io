@@ -168,7 +168,10 @@ body {
   background-color: #288be6;
   color: #ffffff;
 }
-
+.A4{
+  margin: 0 0 160px;
+  padding: 32px 0 32px;
+}
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
