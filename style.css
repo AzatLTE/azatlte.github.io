@@ -168,7 +168,9 @@ body {
   background-color: #288be6;
   color: #ffffff;
 }
-.A4{
+A4{
+  width: 700px;
+  heigth: 400px;
   margin: 0 0 160px;
   padding: 32px 0 32px;
 }
