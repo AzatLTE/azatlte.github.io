@@ -30,10 +30,11 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #ffffff;
+  
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+  color: #ffffff;
 }
 
 .header-email {
